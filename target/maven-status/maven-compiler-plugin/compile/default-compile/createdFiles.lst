@@ -1,0 +1,7 @@
+com\maarouf\simpleJavaBlockchain\TransactionInput.class
+com\maarouf\simpleJavaBlockchain\Wallet.class
+com\maarouf\simpleJavaBlockchain\Block.class
+com\maarouf\simpleJavaBlockchain\MyChain.class
+com\maarouf\simpleJavaBlockchain\StringUtil.class
+com\maarouf\simpleJavaBlockchain\TransactionOutput.class
+com\maarouf\simpleJavaBlockchain\Transaction.class
